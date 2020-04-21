@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Currently pursuing bachelor's in computer science and engineering at Cochin University Of Science And Technology. Interested in Programming, Artificial Intelligence, Math, and Space. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+### Skills
+*Python
+*Java
+*Data Structures And Algorithms
+*NLP
+*Computer Vision
+*Tensorflow
+*Keras
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ananthram.aditya@gmail.com](mailto:ananthram.aditya@gmail.com)
