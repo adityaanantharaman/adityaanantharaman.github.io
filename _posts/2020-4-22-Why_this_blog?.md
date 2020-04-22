@@ -2,7 +2,7 @@
 layout: post
 title: Why this blog?
 ---
-***About me, and what you can expect from this blog.***
+_About me, and what you can expect from this blog_
 
 I am a computer science undergrad with a profound interest in Algorithms, Artificial Intelligence, Math and Space. I try to learn new stuff as much as I can during my free time and this blog is just a medium I chose to share the knowledge I gain or rant about what makes me curious.
 
