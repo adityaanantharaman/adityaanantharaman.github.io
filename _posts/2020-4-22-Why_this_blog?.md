@@ -1,11 +1,12 @@
 ---
 layout: post
-title: 22_4_2020_Why_this_blog?
+title: Why this blog?
 ---
+About me, and what you can expect from this blog.
 
 I am a computer science undergrad with a profound interest in Algorithms, Artificial Intelligence, Math and Space. I try to learn new stuff as much as I can during my free time and this blog is just a medium I chose to share the knowledge I gain or rant about what makes me curious.
 
-***What you can expect in this blog:***
+***What you can expect from this blog:***
 - Algorithm concepts
 - Math Concepts
 - NLP and Computer Vision related stuff
