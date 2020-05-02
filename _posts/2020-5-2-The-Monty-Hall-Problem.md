@@ -18,7 +18,7 @@ Now that there are 2 doors left, the one you initially chose, and another one (t
 
 Think about it for a moment. 
 
-Most peoples' first intuition is that once a door with a goat is removed, there's a 50–50 chance in between the remaining 2 doors and so, weather you choose to switch shouldn't affect your chances of winning the car. But what if I told you that switching ALWAYS DOUBLES your chances of winning.
+Most peoples' first intuition is that once a door with a goat is removed, there's a 50–50 chance in between the remaining 2 doors and so, weather you choose to switch shouldn't affect your chances of winning the car. But what if I told you that switching ***ALWAYS DOUBLES*** your chances of winning.
 
 It isn't that obvious at first, but on giving it some thought, it actually makes sense. There are various methods to prove this. Here I'll show you one way of thinking about it. 
 
