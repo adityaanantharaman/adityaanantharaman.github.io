@@ -4,14 +4,18 @@ title: The Monty Hall Problem
 ---
 _Probability / brain teaser_
 
-In the 90's there used to be a game show hosted by a guy named Monty Hall. This problem is loosely based off of his show and it's part brain teaser and part probability question. I came across this problem a couple of years ago and why I found it interesting is that even after reading the solution to the problem, my brain just refused to believe that that is the case. It was after pondering over it for a while that I had the aaha! moment and actually understood why it was the case. I would suggest that instead of going straight to the solution, take some time to think about it. That way you'll be able to enjoy the problem better.
+In the 90's there used to be a game show hosted by a guy named Monty Hall. This problem is loosely based off of his show and it's part brain teaser and part probability question. I came across this problem a couple of years ago and why I found it interesting is that even after reading the solution to the problem, my brain just refused to believe that that was the case. It was after pondering over it for a while that I had the aaha! moment and actually understood why my initial guess was wrong. I would suggest that instead of going straight to the solution, take some time to think about it. That way you'll be able to enjoy the problem better.
 
 Imagine there are 3 doors. Behind 2 of these doors is a goat, and behind the third door is a car. Suppose I told you that you can choose one door, and you get to take home whatever lies behind it. 
+
 ![](/images/1.11.jpg)
-But there's one catch. Once you make your choice, I open one of the other 2 doors and show you that there lies a goat behind it.
-![](/images/1.13.jpg)
-Now that there are 2 doors left, the one you initially chose, and another one, where one of them holds a goat, and the other holds the car. If given a chance to switch your selection, should you switch?
+
+But there's one catch. Once you make your choice, I open one of the other 2 doors and show you that there lies a goat behind it. Say you chose the door marked by the red arrow, and I opened the 3rd door revealing a goat.
+
+Now that there are 2 doors left, the one you initially chose, and another one (the 1st door), where one of them holds a goat, and the other holds the car. If given a chance to switch your selection, ***should you switch?***
+
 ![](/images/1.12.jpg)
+
 Think about it for a moment. 
 
 Most peoples' first intuition is that once a door with a goat is removed, there's a 50–50 chance in between the remaining 2 doors and so, weather you choose to switch shouldn't affect your chances of winning the car. But what if I told you that switching ALWAYS DOUBLES your chances of winning.
