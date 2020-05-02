@@ -9,9 +9,9 @@ In the 90's there used to be a game show hosted by a guy named Monty Hall. This 
 Imagine there are 3 doors. Behind 2 of these doors is a goat, and behind the third door is a car. Suppose I told you that you can choose one door, and you get to take home whatever lies behind it. 
 ![](/images/1.11.jpg)
 But there's one catch. Once you make your choice, I open one of the other 2 doors and show you that there lies a goat behind it.
-![](/images/1.12.jpg)
-Now that there are 2 doors left, the one you initially chose, and another one, where one of them holds a goat, and the other holds the car. If given a chance to switch your selection, should you switch?
 ![](/images/1.13.jpg)
+Now that there are 2 doors left, the one you initially chose, and another one, where one of them holds a goat, and the other holds the car. If given a chance to switch your selection, should you switch?
+![](/images/1.12.jpg)
 Think about it for a moment. 
 
 Most peoples' first intuition is that once a door with a goat is removed, there's a 50–50 chance in between the remaining 2 doors and so, weather you choose to switch shouldn't affect your chances of winning the car. But what if I told you that switching ALWAYS DOUBLES your chances of winning.
