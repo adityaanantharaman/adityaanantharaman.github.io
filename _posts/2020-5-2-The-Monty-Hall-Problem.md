@@ -28,10 +28,15 @@ Hence our chances of winning the car increases from 33% to 66% if we decide to s
 
 The beauty of probability is that any probabilistic result can be reproduced in real life if enough trials are made. Using python to simulate the two cases, the case where the player always chooses to switch, and the case where the player never chooses to switch.
 
-I wrote a python snippet that takes in as arguments the number of tries to perform, and weather to choose to switch at each try. On running the code for both the cases, switching (represented in ) and no-switching (represented in ), the below graph shows the number of wins with respect to the number of tries.
+I wrote a python snippet that takes in as arguments the number of tries to perform, and weather to choose to switch at each try. On running the code for both the cases, switching (represented in blue) and no-switching (represented in orange), the below graph shows the number of wins with respect to the number of tries.
 
 ![](/images/1.1.png)
 
 Here's the graph for a 1000 tries and it can be seen that the number of wins when the switch is made is 100% greater than the number ofwins when no switch is made.
 
 ![](/images/1.2.png)
+
+These graphs show that if you choose to swich, there's a 66.6 % chance of you winning the car as opposed to a mere 33.3% if you decide not to switch.
+
+Here's the link to the code I wrote on colab to simulate the two test cases. 
+[Monty Hall Simulation python](https://colab.research.google.com/drive/1-VNSQxo91NxrlQBiG-I8oolxbgnqhUWB?usp=sharing)
