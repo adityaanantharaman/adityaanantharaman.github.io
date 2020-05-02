@@ -32,7 +32,7 @@ I wrote a python snippet that takes in as arguments the number of tries to perfo
 
 ![](/images/1.1.png)
 
-Here's the graph for a 1000 tries and it can be seen that the number of wins when the switch is made is 100% greater than the number ofwins when no switch is made.
+Here's the graph for 10,000 tries and it can be seen that the number of wins when the switch is made is 100% greater than the number of wins when no switch is made.
 
 ![](/images/1.2.png)
 
