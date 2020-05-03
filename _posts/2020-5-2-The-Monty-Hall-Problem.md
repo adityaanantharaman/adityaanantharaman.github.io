@@ -47,4 +47,8 @@ These graphs show that if you choose to swich, there's a 66.6 % chance of you wi
 Here's the link to the code I wrote on colab to simulate the two test cases. 
 [Monty Hall Simulation python](https://colab.research.google.com/drive/1-VNSQxo91NxrlQBiG-I8oolxbgnqhUWB?usp=sharing)
 
+Lastly, here's a tree showing all reachable states. Notice that in the case of switching, the only way to loose, is if the initial selection is a car, which has only a ***1 / 3*** chance of happening.
+
+![](/images/1.3.jpg)
+
 Apart from the fact that this is an interesting problem, it shows that sometimes what seems to us as a correct prediction might be in reality, far from accurate, and that using mathematical analysis when taking everyday decisions could go a long way.
