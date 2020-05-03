@@ -4,6 +4,8 @@ title: The Monty Hall Problem
 ---
 _Probability / brain teaser_
 
+![](/images/1.0.jpg)
+
 In the 90's there used to be a game show hosted by a guy named Monty Hall. This problem is loosely based off of his show and it's part brain teaser and part probability question. I came across this problem a couple of years ago and why I found it interesting is that even after reading the solution to the problem, my brain just refused to believe that that was the case. It was after pondering over it for a while that I had the aaha! moment and actually understood why my initial guess was wrong. I would suggest that instead of going straight to the solution, take some time to think about it. That way you'll be able to enjoy the problem better.
 
 Imagine there are 3 doors. Behind 2 of these doors is a goat, and behind the third door is a car. Suppose I told you that you can choose one door, and you get to take home whatever lies behind it. 
