@@ -6,7 +6,7 @@ _Simulating birds flocking_
 
 ![](/images/boids/boids1.jpg)
 
-Have you ever wondered how flocks of birds fly in such a synchronous manner? Making these complex but clean shapes along the way, all while not bumping into each other and creating havoc. It is difficult to imagine that such **“sync”** can be achieved without choreography or practice. But birds definitely haven't been found practising to fly in sync. At Least not that I've heard of.
+Have you ever wondered how flocks of birds fly in such a synchronous manner? Making these complex but clean shapes along the way, all while not bumping into each other and creating havoc. It is difficult to imagine that such **“sync”** can be achieved without choreography or practice. But birds definitely haven't been found practicing to fly in sync. At Least not that I've heard of.
 
 Then how is it that such complex behaviour and seemingly choreographed and smooth movement can be observed when birds fly? The answer: Algorithms in Nature
 
