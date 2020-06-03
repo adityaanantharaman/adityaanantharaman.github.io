@@ -28,8 +28,8 @@ By making each of the boids/bird-oids follow these simple rules, what emerges is
 
 Although I learnt about the emergent behaviour that arises, seeing it in action was surprising and scary at the same time. In the process of coding this simulation, I spent a good hour or two, just observing the movement of these boids and drawing obstacles of different shapes and sizes and experimenting with different levels of alignment, cohesion and repulsion. Something about this kind of emergent behaviour is magical. So I would suggest you to turn down all the 3 rules completely using the **sliders**, and then see how each rule affects the flock one by one. The **Draw** button can be turned on to draw obstacles on the screen. The **walls** button enables boundaries, which the boids sense, and move away from. The **shape** button changes the shape of the boids.
 
-Here’s the simulation I made using p5.js:
-[Boids Simulation](http://adityaanantharaman.github.io/boids)
+**Here’s the simulation I made using p5.js:**
+[**Boids Simulation**](http://adityaanantharaman.github.io/boids)
 
 Here’s the link to the github repo:
 [Boids Repository](https://github.com/adityaanantharaman/boids)
