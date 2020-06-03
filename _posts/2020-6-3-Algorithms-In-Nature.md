@@ -4,9 +4,13 @@ title: Algorithms In Nature [Part-1]
 ---
 _Simulating birds flocking_
 
+![](/images/boids/boids1.jpg)
+
 Have you ever wondered how flocks of birds fly in such a synchronous manner? Making these complex but clean shapes along the way, all while not bumping into each other and creating havoc. It is difficult to imagine that such **“sync”** can be achieved without choreography or practice. But birds definitely haven't been found practising to fly in sync. At Least not that I've heard of.
 
 Then how is it that such complex behaviour and seemingly choreographed and smooth movement can be observed when birds fly? The answer: Algorithms in Nature
+
+![](/images/boids/boids2.jpg)
 
 Algorithms are present all throughout nature and can be seen if one simply observes. A flock of birds flying with sync, a shoal of fish moving and avoiding predators, fireflies flashing in sync, ants moving in complex paterns etc. are all examples of something called **emergent behaviour**.
 
@@ -29,7 +33,9 @@ By making each of the boids/bird-oids follow these simple rules, what emerges is
 Although I learnt about the emergent behaviour that arises, seeing it in action was surprising and scary at the same time. In the process of coding this simulation, I spent a good hour or two, just observing the movement of these boids and drawing obstacles of different shapes and sizes and experimenting with different levels of alignment, cohesion and repulsion. Something about this kind of emergent behaviour is magical. So I would suggest you to turn down all the 3 rules completely using the **sliders**, and then see how each rule affects the flock one by one. The **Draw** button can be turned on to draw obstacles on the screen. The **walls** button enables boundaries, which the boids sense, and move away from. The **shape** button changes the shape of the boids.
 
 **Here’s the simulation I made using p5.js:**
-[**Boids Simulation**](http://adityaanantharaman.github.io/boids)
+[**Boids Simulation**](http://adityaanantharaman.github.io/boids
+
+![](/images/boids/boids3.jpg)
 
 Here’s the link to the github repo:
 [Boids Repository](https://github.com/adityaanantharaman/boids)
