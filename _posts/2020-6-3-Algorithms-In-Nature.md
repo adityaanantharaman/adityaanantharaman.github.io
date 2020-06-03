@@ -34,7 +34,7 @@ Although I learnt about the emergent behaviour that arises, seeing it in action 
 
 **Here’s the simulation I made using P5.js**
 
-[Boids Simulation](http://adityaanantharaman.github.io/boids
+[**Boids Simulation**](http://adityaanantharaman.github.io/boids)
 
 ![](/images/boids/boids3.jpg)
 
